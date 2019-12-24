@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 //$config['base_url'] = 'http://localhost:8081/proyecto201219/';
-$config['base_url'] = 'https://pruebatrabajo.herokuapp.com/';
+$config['base_url'] = 'http://localhost/pruebatrabajo/';
 
 /*
 |--------------------------------------------------------------------------
